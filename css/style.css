@@ -78,3 +78,27 @@ footer {
 	 margin: 50px 200px;
 	 width: 400px;
 }
+.product-item-image {
+	width: 400px;
+	float:left; 
+    margin: 3px 7px 7px 0; 
+}
+.product-item-discription {
+	text-align: justify;
+}
+.price-item {
+	font-size: 36px;
+	color: green;
+	text-align: right;
+
+}
+.price-item button {
+	width: 150px;
+	height: 35px;
+	border-radius: 5px;
+	font-size: 18px;
+	margin: 5px
+}
+.product-item {
+	margin: 50px;
+}
