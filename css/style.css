@@ -11,6 +11,10 @@ body {
 a {
 	text-decoration: none;
 }
+h1 {
+font-size: 25px;
+}
+
 .headerline {
 	background-color: #EEEEEE;
 	padding: 4px 0px 3px 0;
