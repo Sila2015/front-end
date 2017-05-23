@@ -8,63 +8,64 @@ body {
 	margin: 0;
 	
 }
-a{
+a {
 	text-decoration: none;
 }
-.headerline{
+.headerline {
 	background-color: #EEEEEE;
 	padding: 4px 0px 3px 0;
 	margin: 0;
 	
 }
-.list-inline li{
+.list-inline li {
 	display:inline;
 	padding-right:6px;
 	    
 }
 
-.cont{
+.cont {
 
   padding: 0 200px;
 
 }
-.fix{
+.fix {
 	display:inline-block;
 }
 
-.pull_right{
+.pull_right {
 	float: right;
 }
-.pull_centr{
+.pull_centr {
 	padding-left: 400px;
 }
-.content{
+content {
 
   padding: 0 200px;
   margin: 10px;
+  
 
 }
-footer{
+footer {
 	text-align: center;
 }
-.product{
+.product {
 	width: 400px;
 	text-align: justify;
 	display:inline-block;
 	vertical-align: middle;
 	 padding: 10px 20px;
 }
-.product img{
+.product img {
 	width: 350px;
 }
-.price{
+.price {
 	text-align: right;
 }
 .nav {
 	background: #923145;
 }
 
-.nav a{
+.nav a {
 	background: #b92107;
 	color: #fff;
 }
