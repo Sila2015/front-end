@@ -6,17 +6,18 @@
 </head>
 <body>
 <content>
+<div class="add-product">
 <form >
   <div class="form-group">
     <label for="product-name">Product name</label>
-    <input id="product-name"
+    <input class="pull_right" id="product-name"
            type="text"
            placeholder="Enter Product name"
            required/>
   </div>
    <div class="form-group">
     <label for="price">Price</label>
-    <input id="price"
+    <input class="pull_right" id="price"
            type="number"
           
            value="0.01"
@@ -24,11 +25,11 @@
   </div>
   <div class="form-group">
     <label for="image">Upload your image</label>
-    <input type="file" accept=".png,.jpg" />
+    <input class="pull_right" type="file" accept=".png,.jpg" />
   </div>
   <div class="form-group">
     <label for="parent">Select a parent</label>
-    <select name="parent" id="parent">
+    <select class="pull_right" name="parent" id="parent">
       <option value="ingaliator">Ингалятор</option>
       <option value="tonometr">Тонометр</option>
       <option value="termometr">Термометр</option>
@@ -45,8 +46,9 @@
               rows="10">
     </textarea>
   </div>
-  <button type="Submit">Add content</button>
+  <button class="pull_right" type="Submit">Add content</button>
 </form>
+</div>
 </content>
 </body>
 </html>

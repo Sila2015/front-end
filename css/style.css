@@ -42,7 +42,7 @@ content {
 
   padding: 0 200px;
   margin: 10px;
-  
+
 
 }
 footer {
@@ -68,4 +68,11 @@ footer {
 .nav a {
 	background: #b92107;
 	color: #fff;
+}
+.form-group{
+	padding: 5px;
+}
+.add-product {
+	 margin: 50px 200px;
+	 width: 600px;
 }
