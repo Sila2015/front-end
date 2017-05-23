@@ -15,6 +15,7 @@ a {
 	background-color: #EEEEEE;
 	padding: 4px 0px 3px 0;
 	margin: 0;
+
 	
 }
 .list-inline li {
@@ -38,7 +39,8 @@ a {
 .pull_centr {
 	padding-left: 400px;
 }
-content {
+
+.content {
 
   padding: 0 200px;
   margin: 10px;
@@ -74,5 +76,5 @@ footer {
 }
 .add-product {
 	 margin: 50px 200px;
-	 width: 600px;
+	 width: 400px;
 }
