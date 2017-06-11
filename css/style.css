@@ -163,3 +163,6 @@ a {
   padding: 5px; 
   text-overflow: ellipsis;
 }
+.container-align-centr {
+	text-align: center;
+}
