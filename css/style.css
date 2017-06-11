@@ -144,7 +144,6 @@ a {
 }
 .sign-in {
 	margin: 0 25%;
-	display: inline-block;
 }
 .coment {
 	display: inline-block;
@@ -154,6 +153,7 @@ a {
 .border {
 	border: 4px outset gray;
 	border-radius: 5px;
+	padding: 5px;
 	 
 }
 .text-overflow {
@@ -165,3 +165,44 @@ a {
 .container-align-centr {
 	text-align: center;
 }
+.cart-item-image {
+	height: 100px;
+	float:left; 
+    margin: 3px 7px 7px 0;
+}
+.cart-product-name {
+	font-size: 28px;
+	color: green;
+}
+.cart-count {
+	font-size: 18px;
+	color: gray;
+	margin: 7px;
+	width: 70px;
+}
+.cart-form {
+	width: 400px;
+	display: inline-block;
+	margin-left: 75px;
+}
+.check-in {
+	width: 400px;
+}
+.log-in {
+	width: 400px;
+}
+.sign-in input {
+	width: 220px;
+}
+.cart-form input {
+	width: 220px;
+}
+.cart-button {
+	width: 200px
+	margin: 5px;
+	height: 35px;
+	border-radius: 5px;
+	font-size: 14px;
+	margin: 5px
+}
+
