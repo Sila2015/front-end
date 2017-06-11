@@ -205,4 +205,16 @@ a {
 	font-size: 14px;
 	margin: 5px
 }
+.basket img {
+	position: absolute;
+	margin-left: -60px;
+	margin-top: -10px;
+}
+
+.basket p{
+	margin: 0;
+}
+.basket a {
+    outline: none;
+}
 
